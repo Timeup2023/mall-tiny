@@ -4,38 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="101447e8-06fb-4264-bba6-7262b5e1cf9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/MallTiny01Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/common/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/common/IErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/common/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/config/MybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/controller/PmsBrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/mbg/CommentGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/mbg/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/mbg/mapper/PmsBrandMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/mbg/model/PmsBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/mbg/model/PmsBrandExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/service/PmsBrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/service/imp/PmsServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/resources/com/hao/malltiny01/mbg/mapper/PmsBrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/resources/generator.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/test/java/com/hao/malltiny01/MallTiny01ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-tiny-01/src/test/java/com/hao/malltiny01/test/BrandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="101447e8-06fb-4264-bba6-7262b5e1cf9a" name="Changes" comment="V1">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/common/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/common/CommonResult.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +23,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="F:\IDEA\Git\bin\git.exe" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mall-tiny-01" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5a69c84e-b5ee-49a9-8e98-8fbac70e2fc7" />
+        <option name="url" value="https://github.com/Timeup2023/mall-tiny.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mall-tiny-01/src/main/java/com/hao/malltiny01/service/imp/PmsServiceImp.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,10 +94,15 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17578125",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.nnthink.aixcoder.config.Config",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ],
     "DatabaseDriversLRU": [
       "mysql"
     ]
@@ -195,6 +195,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HAO\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="101447e8-06fb-4264-bba6-7262b5e1cf9a" name="Changes" comment="" />
@@ -206,15 +209,54 @@
       <workItem from="1713827862618" duration="8697000" />
       <workItem from="1713860787896" duration="4030000" />
       <workItem from="1713920235728" duration="8000" />
-      <workItem from="1713920252788" duration="3925000" />
+      <workItem from="1713920252788" duration="13468000" />
+      <workItem from="1713950052391" duration="2853000" />
+      <workItem from="1714007540390" duration="1095000" />
+      <workItem from="1714016770332" duration="2030000" />
     </task>
+    <task id="LOCAL-00001" summary="V1">
+      <option name="closed" value="true" />
+      <created>1713949152937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713949152937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="V1">
+      <option name="closed" value="true" />
+      <created>1713950129943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713950129943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

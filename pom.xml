@@ -17,13 +17,16 @@
     <packaging>pom</packaging>
 
     <properties>
-        <java.version>17</java.version>
-        <pagehelper-starter.version>2.1.0</pagehelper-starter.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <mybatis.version>3.5.10</mybatis.version>
+        <mybatis-starter.version>3.0.3</mybatis-starter.version>
+        <springfox-swagger.version>3.0.0</springfox-swagger.version>
+        <mysql-connector.version>8.0.33</mysql-connector.version>
+        <pagehelper-starter.version>1.4.5</pagehelper-starter.version>
         <druid.version>1.2.22</druid.version>
-        <mybatis-generator.version>1.4.2</mybatis-generator.version>
-        <mysql-connector.version>8.3.0</mysql-connector.version>
+        <mybatis-generator.version>1.4.0</mybatis-generator.version>
         <hutool.version>5.8.27</hutool.version>
-        <swagger.version>1.6.6</swagger.version>
+        <springfox-swagger.version>3.0.0</springfox-swagger.version>
     </properties>
 
     <dependencies>
